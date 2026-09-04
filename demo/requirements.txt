@@ -1,0 +1,15 @@
+# Core numerical computing
+numpy>=1.26
+pandas>=2.1
+
+# Signal processing
+scipy>=1.12
+
+# Visualization
+matplotlib>=3.8
+
+# Demonstration classifier
+scikit-learn>=1.4
+
+# Model persistence
+joblib>=1.3
