@@ -76,7 +76,7 @@ More details are available in [`hardware/components.md`](hardware/components.md)
 
 ---
 
-# Stage 1 — Cardiac Engine ❤️
+# Stage 1 — Cardiac Engine 
 
 The Cardiac Engine is the physiological intelligence layer of VYNTARA.
 
@@ -138,7 +138,7 @@ Its purpose is cardiac-pattern interpretation rather than signal-quality gating.
 
 ---
 
-# Stage 2 — SoulSync 🧠
+# Stage 2 — SoulSync 
 
 SoulSync converts repeated physiological observations into a longitudinal monitoring layer.
 
